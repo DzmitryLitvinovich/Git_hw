@@ -1,0 +1,1 @@
+Skills: AQA theory, Git, JS, TS, Playwright, WebdriverIO, BDD/Cucumber, CI/CD
